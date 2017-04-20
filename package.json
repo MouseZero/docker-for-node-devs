@@ -1,0 +1,25 @@
+{
+  "name": "docker-for-node-devs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MouseZero/docker-for-node-devs.git"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "development",
+    "postgresql"
+  ],
+  "author": "Russell Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MouseZero/docker-for-node-devs/issues"
+  },
+  "homepage": "https://github.com/MouseZero/docker-for-node-devs#readme"
+}
